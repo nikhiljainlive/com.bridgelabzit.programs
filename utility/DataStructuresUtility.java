@@ -3,7 +3,6 @@ package utility;
 public class DataStructuresUtility
 {
 	public static String[][] primeNum = new String[10][30];
-	//public static QueueUsingLinkedList queue = new QueueUsingLinkedList();
 	
 	public static String[][] primeNum()
 	{
